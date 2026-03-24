@@ -1,2 +1,5 @@
-# web-dev-tutorial-01
-My first GitHub repository — Web Development Tutorial 1
+# My First GitHub Page
+
+## My name is Tej Bam - [tbam@algomau.ca]
+
+### COSC2956 - Assignment 4
